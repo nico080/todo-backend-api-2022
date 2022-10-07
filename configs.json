@@ -1,0 +1,6 @@
+{
+    "PORT": 8090,
+    "DB_CONN": "mongodb+srv://no1has2kn0w:ZEOhTvv7cFuudW7F@cluster0.bcwkz8x.mongodb.net/appdb?retryWrites=true&w=majority",
+    "SECRET": "secret",
+    "ENV":"http://localhost:8090/api"
+}
